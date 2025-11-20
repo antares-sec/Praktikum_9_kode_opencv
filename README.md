@@ -8,7 +8,7 @@ Sebelum menjalankan kode, diharapkan untuk membuat folder baru yang meliputi :
 ## 1. Penyimpanan model dari hasil pelatihan (Google Colab)
 #### Command :  
 ```python
-model.save("[NAMA_FILE_KALIAN.keras]")
+model.save("NAMA_FILE_KALIAN.keras")
 ```
 
 ## 2. Melakukan pembuatan Environment Python versi 3 (3.12.1 atau diatas 3.10.1)

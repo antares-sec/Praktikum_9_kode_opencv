@@ -2,13 +2,13 @@
 
 Sebelum menjalankan kode, diharapkan untuk membuat folder baru yang meliputi : 
 1. Kode Python dari Github ini
-2. Model yang telah dilatih dari colab pada praktikum 9
+2. Model yang telah dilatih dari colab pada praktikum 9 (Download model yang telah disimpan dari Google Colab (Tersimpan di Google Drive))
 3. requirements.txt
 
 ## 1. Penyimpanan model dari hasil pelatihan (Google Colab)
 #### Command :  
 ```python
-model.save("[NAMA_FILE_KALIAN.KERAS]")
+model.save("[NAMA_FILE_KALIAN.keras]")
 ```
 
 ## 2. Melakukan pembuatan Environment Python versi 3 (3.12.1 atau diatas 3.10.1)

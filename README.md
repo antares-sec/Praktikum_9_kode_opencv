@@ -31,3 +31,13 @@ source venv/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
+
+## Notes :
+### Untuk Tensorflow nya tidak dapat berjalan (Tensorflow 2.2.0)
+- Pada Windows yang memiliki Microsoft Visual C++ Redistribute 2022 (Dibawah versi ini), diharapkan untuk menginstall/mengupdate Visual C++.
+- https://aka.ms/vc14/vc_redist.arm64.exe (untuk versi ARM64)
+- https://aka.ms/vc14/vc_redist.x86.exe (untuk versi X86)
+- https://aka.ms/vc14/vc_redist.x64.exe (untuk versi x64)
+
+### Alternatives
+- Pada file **requirements.txt** ganti **tensorflow** menjadi **tensorflow==2.10.0**

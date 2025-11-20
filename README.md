@@ -5,7 +5,7 @@ Sebelum menjalankan kode, diharapkan untuk membuat folder baru yang meliputi :
 2. Model yang telah dilatih dari colab pada praktikum 9
 3. requirements.txt
 
-## 1. Penyimpanan model dari hasil pelatihan
+## 1. Penyimpanan model dari hasil pelatihan (Google Colab)
 #### Command :  
 ```python
 model.save("[NAMA_FILE_KALIAN.KERAS]")

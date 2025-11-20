@@ -1,0 +1,3 @@
+mtcnn
+tensorflow
+opencv-python
